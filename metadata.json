@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ElevateMatch - Tier 2/3 Internship Platform",
+  "description": "An intelligent internship matching platform designed to empower students from tier 2 and tier 3 colleges with AI-driven recommendations and career guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
