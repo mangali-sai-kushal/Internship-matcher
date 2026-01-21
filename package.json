@@ -4,6 +4,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage":"https://mangali-sai-kushal.github.io/Internship-matcher"
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
